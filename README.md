@@ -2,7 +2,7 @@
 - 👀 I’m interested in travelling/music/dancing
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me:934855913@qq.com
+- 📫 How to reach me: 934855913@qq.com
 
 <!---
 LinMA-Kathy/LinMA-Kathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
